@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Notion
+Exec=/home/hisham/Notion-linux-x64/Notion %U
+Terminal=false
+Type=Application
+Icon=/home/hisham/Notion-linux-x64/resources/app/icon.png
+StartupWMClass=Notion
+Comment=Electron of Notion
+Categories=Utility;
